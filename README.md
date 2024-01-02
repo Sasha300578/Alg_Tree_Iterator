@@ -51,8 +51,10 @@
 Дерево A после операции и его обход
 
 ![image](https://github.com/Sasha300578/Alg_Tree_Iterator/assets/113348429/d6dbccac-a019-476d-adef-a726a79c07bf)
+
 Симметричный обход: 1,2,3
 
 Вывод программы:
+
 ![image](https://github.com/Sasha300578/Alg_Tree_Iterator/assets/113348429/f3d7c43f-0346-4590-a66c-bcc4f25c6aad)
 
